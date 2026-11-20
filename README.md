@@ -56,27 +56,31 @@ operational efficiency, and strategic decisions.
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Delay Prediction Using Machine Learning
+
+### ✈️ [Flight Delay Prediction Using Machine Learning](https://github.com/soyeonpark2/flight-delay-prediction)
 
 A machine learning project focused on predicting
-flight delays using historical flight data.
+flight delays using historical airline data.
 
-The project explores patterns in airline operations
-and applies predictive modeling techniques to identify
-potential delays and support data-driven decisions.
+The project explores patterns in flight operations
+and applies predictive modeling techniques to
+identify potential delays and support
+data-driven decision-making.
 
 **Focus:** Machine Learning, Predictive Analytics,
 Classification, Exploratory Data Analysis
 
-### 🎬 Netflix Trends Analysis
 
-A data analytics project focused on exploring
-trends and patterns in Netflix's content library.
+### 🎬 [Netflix Customer Churn Prediction](https://github.com/soyeonpark2/netflix-customer-churn-prediction)
 
-The project examines content distribution,
-genre popularity, and changes over time to uncover
-meaningful insights through data analysis
-and visualization.
 
-**Focus:** Data Analytics, Exploratory Data Analysis,
-Trend Analysis, Data Visualization
+A machine learning project focused on analyzing
+customer behavior and predicting subscription churn.
+
+The project uses exploratory data analysis and
+Logistic Regression to identify churn-related
+patterns and support customer retention strategies.
+
+**Focus:** Business Analytics, Machine Learning,
+Customer Behavior Analysis, Predictive Modeling
+
