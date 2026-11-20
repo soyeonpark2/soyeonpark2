@@ -32,24 +32,30 @@ operational efficiency, and strategic decisions.
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-**Programming & Analytics**
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Excel
+### Programming & Data Analytics
 
-**Data Science & Machine Learning**
-- Predictive Modeling
-- Classification & Regression
-- Exploratory Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Machine Learning & Visualization
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Business Analytics
+
+- Microsoft Excel
+- Business Intelligence
 - Statistical Analysis
+- Predictive Modeling
+- Optimization & Decision Modeling
 
-**Business & Operations**
-- Business Analytics
-- Supply Chain Analytics
-- Linear Programming & Optimization
-- Process Improvement
 
 ---
 
